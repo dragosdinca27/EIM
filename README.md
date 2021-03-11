@@ -1,2 +1,2 @@
-# EIM Laborators
+# EIM Labs
 # Dinca Dragos 343C4
